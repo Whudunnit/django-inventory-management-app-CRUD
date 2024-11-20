@@ -1,0 +1,2 @@
+This is an inventory management app using Django and bootstrap5 for the styling. Users are verified and checked if logged in before allowing to continue to the dashboard, user can add categores, add items, edit items and delete items. If an item has low quantity (less than or equal to 3) then the quantity will be shown in red and there will be a warning message
+above the dashboard, otherwise it will be green.
